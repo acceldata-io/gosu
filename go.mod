@@ -1,6 +1,6 @@
-module github.com/tianon/gosu
+module github.com/acceldata-io/gosu
 
-go 1.20
+go 1.24.2
 
 require (
 	github.com/moby/sys/user v0.1.0

@@ -1,3 +1,9 @@
 .git
 SHA256SUMS*
 gosu*
+
+# VSCode
+**/.vscode/**
+
+# Golang
+**/vendor/**
