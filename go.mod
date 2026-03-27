@@ -1,6 +1,6 @@
 module github.com/tianon/gosu
 
-go 1.24.4
+go 1.24.13
 
 require (
 	github.com/moby/sys/user v0.4.0
